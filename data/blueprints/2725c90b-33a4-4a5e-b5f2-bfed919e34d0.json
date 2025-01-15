@@ -1,0 +1,67 @@
+{
+  "json_version": 4,
+  "blueprints":
+  [
+    {
+      "name": "blueprint_001",
+      "type": "token",
+      "layout_size_mm": "19, 19",
+      "bleeding_size_mm": "0",
+      "main_panel_name": "",
+      "hint_order_index": 1,
+      "shape_settings":
+      {
+        "radius": "2"
+      },
+      "front_layers":
+      [
+        {
+          "name": "default_front",
+          "panels":
+          [
+            {
+              "name": "logo",
+              "data":
+              {
+                "layout_position": "2, 2",
+                "layout_size": "15, 15",
+                "layout_constraint_h": "left_and_right",
+                "layout_constraint_v": "top_and_bottom",
+                "panel_type": "image",
+                "value": "TC/Icon",
+                "img_zoom": "0.75"
+              }
+            },
+            {
+              "name": "color",
+              "data":
+              {
+                "layout_position": "2, 2",
+                "layout_size": "15, 15",
+                "layout_constraint_h": "left_and_right",
+                "layout_constraint_v": "top_and_bottom",
+                "panel_type": "procedural",
+                "procedural_rectangle_radius": "3",
+                "panel_editable": "False",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "name": "border",
+              "data":
+              {
+                "layout_position": "-2, -2",
+                "layout_size": "23, 23",
+                "layout_constraint_h": "left_and_right",
+                "layout_constraint_v": "top_and_bottom",
+                "panel_type": "procedural",
+                "panel_editable": "False",
+                "color": "#B26223"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "json_version": 4,
+  "blueprints":
+  [
+    {
+      "name": "blueprint_002",
+      "type": "board",
+      "layout_size_mm": "203.2, 203.2",
+      "bleeding_size_mm": "0",
+      "main_panel_name": "",
+      "hint_order_index": 2,
+      "shape_settings":
+      {
+        "radius": "5"
+      },
+      "front_layers":
+      [
+        {
+          "name": "default_front",
+          "panels":
+          [
+            {
+              "name": "text_top",
+              "data":
+              {
+                "layout_position": "7, 5",
+                "layout_size": "189.2, 48.3",
+                "layout_constraint_h": "left_and_right",
+                "panel_type": "text",
+                "value": "New Board",
+                "text_font": "Noto Sans",
+                "text_wrapping": "False",
+                "text_size": "3",
+                "text_autosize": "True",
+                "text_size_max": "30",
+                "color": "#333333"
+              }
+            },
+            {
+              "name": "text_bottom",
+              "data":
+              {
+                "layout_position": "101.6, 149.9",
+                "layout_size": "94.6, 48.3",
+                "layout_constraint_h": "right",
+                "layout_constraint_v": "bottom",
+                "panel_type": "text",
+                "value": "{layout|mm}\n{layout|in}",
+                "text_font": "Noto Sans",
+                "text_wrapping": "False",
+                "text_size": "2",
+                "text_autosize": "True",
+                "text_alignment_h": "right",
+                "color": "#333333"
+              }
+            },
+            {
+              "name": "logo",
+              "data":
+              {
+                "layout_position": "5, 53.3",
+                "layout_size": "193.2, 96.6",
+                "layout_constraint_h": "left_and_right",
+                "layout_constraint_v": "top_and_bottom",
+                "panel_type": "image",
+                "value": "TC/Icon"
+              }
+            },
+            {
+              "name": "color",
+              "data":
+              {
+                "layout_position": "5, 5",
+                "layout_size": "193.2, 193.2",
+                "layout_constraint_h": "left_and_right",
+                "layout_constraint_v": "top_and_bottom",
+                "panel_type": "procedural",
+                "procedural_rectangle_radius": "3",
+                "panel_editable": "False",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "name": "border",
+              "data":
+              {
+                "layout_position": "-5, -5",
+                "layout_size": "213.2, 213.2",
+                "layout_constraint_h": "left_and_right",
+                "layout_constraint_v": "top_and_bottom",
+                "panel_type": "procedural",
+                "panel_editable": "False",
+                "color": "#B26223"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

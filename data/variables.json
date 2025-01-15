@@ -1,0 +1,18 @@
+{
+  "json_version": 4,
+  "variables":
+  [
+    {
+      "code": "description",
+      "replacement": "description",
+      "force_tint": "False",
+      "color": "#FFFFFF00"
+    },
+    {
+      "code": "name",
+      "replacement": "name",
+      "force_tint": "False",
+      "color": "#FFFFFF00"
+    }
+  ]
+}

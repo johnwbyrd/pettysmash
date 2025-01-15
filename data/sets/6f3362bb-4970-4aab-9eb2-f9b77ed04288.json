@@ -1,0 +1,66 @@
+{
+  "json_version": 4,
+  "sets":
+  [
+    {
+      "name": "Base Set",
+      "blueprint_name": "career_quest_01",
+      "hint_order_index": 0,
+      "zoom": 0,
+      "collapsed": false,
+      "items":
+      [
+        {
+          "amount": 1,
+          "creation_date_unix": 1736226180,
+          "last_modification_date_unix": 1736280190,
+          "details":
+          [
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "Discover a person\nwho can hire you"
+              }
+            },
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "True"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "False"
+              }
+            },
+            {
+              "name": "description",
+              "data":
+              {
+                "value": "Get and note contact information for a person with the power to hire you for a job.  Record this information in your contact database.\n\n\"<i>The journey of 1000 miles\" -<color=#240AD6><size=200%>{Board/diamonds}</i></size></color>"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "color": "#638FFF94"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "True"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

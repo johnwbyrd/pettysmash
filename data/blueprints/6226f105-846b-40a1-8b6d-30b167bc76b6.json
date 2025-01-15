@@ -1,0 +1,101 @@
+{
+  "json_version": 4,
+  "blueprints":
+  [
+    {
+      "name": "blueprint_004",
+      "type": "card",
+      "layout_size_mm": "55.9, 87.1",
+      "bleeding_size_mm": "0",
+      "main_panel_name": "",
+      "hint_order_index": 4,
+      "shape_settings":
+      {
+        "radius": "5"
+      },
+      "front_layers":
+      [
+        {
+          "name": "default_front",
+          "panels":
+          [
+            {
+              "name": "text_top",
+              "data":
+              {
+                "layout_position": "7, 5",
+                "layout_size": "41.9, 19.275",
+                "layout_constraint_h": "left_and_right",
+                "panel_type": "text",
+                "value": "New Card",
+                "text_font": "Noto Sans",
+                "text_wrapping": "False",
+                "text_size": "3",
+                "text_autosize": "True",
+                "text_size_max": "30",
+                "color": "#333333"
+              }
+            },
+            {
+              "name": "text_bottom",
+              "data":
+              {
+                "layout_position": "27.95, 62.825",
+                "layout_size": "20.95, 19.275",
+                "layout_constraint_h": "right",
+                "layout_constraint_v": "bottom",
+                "panel_type": "text",
+                "value": "{layout|mm}\n{layout|in}",
+                "text_font": "Noto Sans",
+                "text_wrapping": "False",
+                "text_size": "2",
+                "text_autosize": "True",
+                "text_alignment_h": "right",
+                "color": "#333333"
+              }
+            },
+            {
+              "name": "logo",
+              "data":
+              {
+                "layout_position": "5, 24.275",
+                "layout_size": "45.9, 38.55",
+                "layout_constraint_h": "left_and_right",
+                "layout_constraint_v": "top_and_bottom",
+                "panel_type": "image",
+                "value": "TC/Icon"
+              }
+            },
+            {
+              "name": "color",
+              "data":
+              {
+                "layout_position": "5, 5",
+                "layout_size": "45.9, 77.1",
+                "layout_constraint_h": "left_and_right",
+                "layout_constraint_v": "top_and_bottom",
+                "panel_type": "procedural",
+                "procedural_rectangle_radius": "3",
+                "panel_editable": "False",
+                "color": "#FFFFFF"
+              }
+            },
+            {
+              "name": "border",
+              "data":
+              {
+                "layout_position": "-5, -5",
+                "layout_size": "65.9, 97.1",
+                "layout_constraint_h": "left_and_right",
+                "layout_constraint_v": "top_and_bottom",
+                "panel_type": "procedural",
+                "panel_editable": "False",
+                "color": "#B26223"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

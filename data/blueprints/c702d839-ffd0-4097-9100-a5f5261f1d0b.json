@@ -1,0 +1,172 @@
+{
+  "json_version": 4,
+  "blueprints":
+  [
+    {
+      "name": "career_quest_01",
+      "type": "card",
+      "layout_size_mm": "57, 89",
+      "bleeding_size_mm": "0",
+      "main_panel_name": "",
+      "hint_order_index": 0,
+      "shape_settings":
+      {
+        "radius": "5"
+      },
+      "front_layers":
+      [
+        {
+          "name": "gems_layer",
+          "panels":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "layout_position": "34.19, 74.16667",
+                "layout_size": "7.619999, 7.62",
+                "panel_type": "image",
+                "value": "vecteezy_diamond-clipart-design-illustration_9400372.png",
+                "color": "#FFFFFFE3"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "layout_position": "25.75025, 74.16667",
+                "layout_size": "7.619999, 7.62",
+                "panel_type": "image",
+                "value": "vecteezy_diamond-clipart-design-illustration_9400372.png",
+                "color": "#FFFFFFE3"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "layout_position": "16.95107, 74.16667",
+                "layout_size": "7.619999, 7.62",
+                "panel_type": "image",
+                "value": "vecteezy_diamond-clipart-design-illustration_9400372.png",
+                "color": "#FFFFFFE3"
+              }
+            }
+          ]
+        },
+        {
+          "name": "gold_layer",
+          "panels":
+          [
+            {
+              "name": "gold",
+              "data":
+              {
+                "layout_position": "43.27007, 75.563",
+                "layout_size": "5.839872, 4.827326",
+                "panel_type": "text",
+                "value": "950",
+                "text_wrapping": "False",
+                "text_autosize": "True",
+                "text_font": "Franklin Gothic Heavy",
+                "layout_constraint_h": "scale",
+                "layout_constraint_v": "scale"
+              }
+            },
+            {
+              "name": "circle",
+              "data":
+              {
+                "layout_position": "42.38, 74.16667",
+                "layout_size": "7.619999, 7.62",
+                "panel_type": "procedural",
+                "procedural_type": "circleellipse",
+                "background_color": "#FFFFFFFF",
+                "procedural_border": "0.508",
+                "color": "#C98F78FF"
+              }
+            }
+          ]
+        },
+        {
+          "name": "default_front",
+          "panels":
+          [
+            {
+              "name": "title",
+              "data":
+              {
+                "layout_position": "7, 5",
+                "layout_size": "43, 7.62",
+                "layout_constraint_h": "left_and_right",
+                "panel_type": "text",
+                "value": "Activity summary and high level detail which may or may not fit on one line",
+                "text_font": "Poor Richard",
+                "text_size": "3",
+                "text_autosize": "True",
+                "text_size_max": "30",
+                "color": "#333333"
+              }
+            },
+            {
+              "name": "description",
+              "data":
+              {
+                "layout_position": "8.060246, 52.5",
+                "layout_size": "40.28991, 19.75",
+                "panel_type": "text",
+                "value": "This is where a detailed description of what you actually need to do goes.  You can go into some detail about job search methods and what is acceptable and what is not.\n\n<i>\"Here is an interesting quote\" - a colored icon: <color=#FF0000><size=159%>{Board/diamonds}</size></color> </i>",
+                "text_font": "Century Gothic",
+                "text_size": "1.9",
+                "text_alignment_h": "left",
+                "color": "#333333",
+                "text_alignment_v": "top"
+              }
+            },
+            {
+              "name": "image",
+              "data":
+              {
+                "layout_position": "7, 13.73326",
+                "layout_size": "43, 36.47528",
+                "layout_constraint_h": "left_and_right",
+                "layout_constraint_v": "top_and_bottom",
+                "panel_type": "image",
+                "value": "friend.webp"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "layout_position": "-5, -5",
+                "layout_size": "67, 99",
+                "layout_constraint_h": "left_and_right",
+                "layout_constraint_v": "top_and_bottom",
+                "panel_type": "procedural",
+                "color": "#BFBFBF82",
+                "background_color": "#000000FF"
+              }
+            },
+            {
+              "name": "background",
+              "data":
+              {
+                "layout_position": "4, 4",
+                "layout_size": "49, 81",
+                "layout_constraint_h": "center",
+                "layout_constraint_v": "center",
+                "panel_type": "image",
+                "procedural_rectangle_radius": "3",
+                "color": "#FFFFFFFF",
+                "value": "white-concrete-floor-textured-background.jpg",
+                "img_rotation": "90",
+                "img_zoom": "1.9"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
