@@ -27,7 +27,8 @@
                 "layout_size": "7.619999, 7.62",
                 "panel_type": "image",
                 "value": "vecteezy_diamond-clipart-design-illustration_9400372.png",
-                "color": "#FFFFFFE3"
+                "color": "#FFFFFFE3",
+                "visible": "False"
               }
             },
             {
@@ -38,7 +39,8 @@
                 "layout_size": "7.619999, 7.62",
                 "panel_type": "image",
                 "value": "vecteezy_diamond-clipart-design-illustration_9400372.png",
-                "color": "#FFFFFFE3"
+                "color": "#FFFFFFE3",
+                "visible": "False"
               }
             },
             {
@@ -49,7 +51,8 @@
                 "layout_size": "7.619999, 7.62",
                 "panel_type": "image",
                 "value": "vecteezy_diamond-clipart-design-illustration_9400372.png",
-                "color": "#FFFFFFE3"
+                "color": "#FFFFFFE3",
+                "visible": "False"
               }
             }
           ]
@@ -65,7 +68,7 @@
                 "layout_position": "43.27007, 75.563",
                 "layout_size": "5.839872, 4.827326",
                 "panel_type": "text",
-                "value": "950",
+                "value": "0",
                 "text_wrapping": "False",
                 "text_autosize": "True",
                 "text_font": "Franklin Gothic Heavy",

@@ -2,13 +2,13 @@
   "json_version": 4,
   "project_info":
   {
-    "name": "Career Quest",
+    "name": "Pettysmash",
     "creation_app_version": "2024.12.1 r849  bcf7218908b3ed62b461cb334fb69299",
     "creation_date": "20250107_050300",
     "creation_date_unix": 1736226180,
-    "last_modification_app_version": "2024.12.1 r849  bcf7218908b3ed62b461cb334fb69299",
+    "last_modification_app_version": "2025.1.1 r852  0b47564fe64d0c22b41b6a05f9e2b1a1",
     "last_modification_user": "d2130796627a9711dfe346ed199cdbcde63cbfda8de69264c34c84c949ba7a84",
-    "last_modification_date": "20250107_200310",
-    "last_modification_date_unix": 1736280190
+    "last_modification_date": "20250115_175646",
+    "last_modification_date_unix": 1736963806
   }
 }

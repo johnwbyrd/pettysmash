@@ -12,22 +12,22 @@
       [
         {
           "amount": 1,
-          "creation_date_unix": 1736226180,
-          "last_modification_date_unix": 1736280190,
+          "creation_date_unix": 1736929404,
+          "last_modification_date_unix": 1736963517,
           "details":
           [
-            {
-              "name": "title",
-              "data":
-              {
-                "value": "Discover a person\nwho can hire you"
-              }
-            },
             {
               "name": "gems-1",
               "data":
               {
-                "visible": "True"
+                "visible": "False"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "False"
               }
             },
             {
@@ -38,24 +38,1319 @@
               }
             },
             {
+              "name": "title",
+              "data":
+              {
+                "value": "I was determined to find a job"
+              }
+            },
+            {
               "name": "description",
               "data":
               {
-                "value": "Get and note contact information for a person with the power to hire you for a job.  Record this information in your contact database.\n\n\"<i>The journey of 1000 miles\" -<color=#240AD6><size=200%>{Board/diamonds}</i></size></color>"
+                "value": "If you're only kinda-sorta hoping for a job, it won't happen!  Make the personal decision that it's time for you to find a job.  Are you determined?</size></color> </i>"
+              }
+            },
+            {
+              "name": "image",
+              "data":
+              {
+                "value": "resolute-little-girl.webp"
               }
             },
             {
               "name": "land",
               "data":
               {
-                "color": "#638FFF94"
+                "color": "#E69F0080"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929404,
+          "last_modification_date_unix": 1736963582,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "FALSE"
               }
             },
             {
               "name": "gems-2",
               "data":
               {
-                "visible": "True"
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I had a clear idea of the type of job I wanted to find"
+              }
+            },
+            {
+              "name": "description",
+              "data":
+              {
+                "value": "If you're just searching for any old job, chances are you won't find it!  Best to know yourself and make strong choices that include what you're good at, what you enjoy, and what you can make money doing.</size></color>  If you can find one job that does all three things, you win.</i>"
+              }
+            },
+            {
+              "name": "image",
+              "data":
+              {
+                "value": "job-listing.webp"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "color": "#E69F0080"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929404,
+          "last_modification_date_unix": 1736963615,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I thought about the intermediate steps needed to get a job"
+              }
+            },
+            {
+              "name": "description",
+              "data":
+              {
+                "value": "A job search is a big job, in and of itself.  Best to break it down into small, manageable tasks, instead of trying to do it all at once.</size></color> Think small, in order to think big.</i>"
+              }
+            },
+            {
+              "name": "image",
+              "data":
+              {
+                "value": "setting-up-dominos.webp"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "color": "#E69F0080"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929404,
+          "last_modification_date_unix": 1736963649,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "TRUE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I searched for employment in a systematic way"
+              }
+            },
+            {
+              "name": "description",
+              "data":
+              {
+                "value": "There's a strong negative correlation between people who say they look for jobs in a <i>haphazard</i> way, and actually getting a  job!</size></color>  That's why it's important to set up a specific, measurable job search process that works for you.</i>"
+              }
+            },
+            {
+              "name": "image",
+              "data":
+              {
+                "value": "kite-in-tree.webp"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "color": "#E69F0080"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929404,
+          "last_modification_date_unix": 1736963667,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I prioritized the job search over other activities I had to do"
+              }
+            },
+            {
+              "name": "description",
+              "data":
+              {
+                "value": "In order to succeed, a job search must be important in the scheme of your life.  That means it needs to take some priority over less important things.  That doesn't mean you need to spend every moment at your job search.  But it needs to be prioritized high on your list of to-do's.</size></color></i>"
+              }
+            },
+            {
+              "name": "image",
+              "data":
+              {
+                "value": "girl-loves-puppy.jpg"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "color": "#E69F0080"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736963710,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I agreed with myself when I wanted to have completed certain job search activities"
+              }
+            },
+            {
+              "name": "description",
+              "data":
+              {
+                "value": "Follow through on your commitments to yourself.  Not only do you have to set a goal for your work, you have to follow through on that goal.  Learn to agree with yourself, starting with very small incremental commitments and tasks.</i>"
+              }
+            },
+            {
+              "name": "image",
+              "data":
+              {
+                "value": "agree-with-myself.jpg"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "color": "#E69F0080"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736929845,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "TRUE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I thought carefully about how best to present myself to potential employers"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "color": "#56B4E980"
+              }
+            },
+            {
+              "name": "image",
+              "data":
+              {
+                "value": "crazy-hat.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736930077,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I carefully studied the website of organizations where I was going to apply"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "color": "#56B4E980"
+              }
+            },
+            {
+              "name": "image",
+              "data":
+              {
+                "value": "this-is-a-website.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736929405,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "TRUE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I approached contacts in my network to see if they had information about organizations that I was applying to"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "color": "#56B4E980"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736929405,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "When I applied for a job, I first tried to find out what the employer considers really important in applicants"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "color": "#56B4E980"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736929405,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "TRUE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I prepared for applications by listing my qualities and thinking of examples for each quality"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "color": "#56B4E980"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736929405,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I persevered when looking for work, even though I was afraid things wouldn't work out"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "color": "#009E7380"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736929405,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "TRUE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I persisted in my job search, even though it was unpleasant at times"
+              }
+            },
+            {
+              "name": "description",
+              "data":
+              {
+                "value": "The typical job search goes like this: NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO YES.  Of course that can be unpleasant!  Persisting through all those no's is a huge determining factor in getting what you want.</size></color> </i>"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "color": "#009E7380"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736929405,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "When I felt bad, I tried to cheer myself up so that I could continue with my job search"
+              }
+            },
+            {
+              "name": "description",
+              "data":
+              {
+                "value": "Talk back to that inner critic!</size></color>  Your fears and your emotions don't need to define you.  Research shows that your attitude toward the job search is a very strong determining factor for your success.  Be of good cheer -- you are doing what needs to be done!</i>"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "color": "#009E7380"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736929405,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I felt satisfied on days where I had put more effort into my job search"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "color": "#009E7380"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736929405,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I tried to find out what I could improve in my job search"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "color": "#CC79A780"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736929405,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I asked others for advice and ideas on how to improve my job search"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "color": "#CC79A780"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736929405,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I thought about other ways to find a job beyond those I had already tried"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "color": "#CC79A780"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736929405,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I regularly asked myself if I had done everything I could to find a job"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "color": "#CC79A780"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736929405,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I spent 15 minutes on the job search"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "color": "#D55E0080"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736929405,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I spent 1 hour on the job search"
+              }
+            },
+            {
+              "name": "land",
+              "data":
+              {
+                "color": "#D55E0080"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736929405,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I made contact with a person regarding my job search"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736929405,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "TRUE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "TRUE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "TRUE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I made contact with a person who can hire me"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736929405,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I didn't do anything at all to get a job"
+              }
+            },
+            {
+              "name": "description",
+              "data":
+              {
+                "value": "Sure, but you remembered this game, didn't you?  Yes, you can keep your streak alive with a single point IF you remember to play this card on the days you don't do anything else.  No fair going back and playing it for days already past."
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736963806,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I played for one day so far"
+              }
+            },
+            {
+              "name": "description",
+              "data":
+              {
+                "value": "This card succeeds on your first day playing the game only, whether starting or returning.  Welcome!"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736929405,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I played every day for three days so far"
+              }
+            },
+            {
+              "name": "description",
+              "data":
+              {
+                "value": "Awesome!  You're off to a great start so far!"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736929405,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "TRUE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I played every day for seven days so far"
+              }
+            },
+            {
+              "name": "description",
+              "data":
+              {
+                "value": "Wow!  You're on a roll!  You're developing a great habit!"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736929405,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "FALSE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "TRUE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "TRUE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I played every day for two weeks so far"
+              }
+            },
+            {
+              "name": "description",
+              "data":
+              {
+                "value": "Cheez Luise, you're going strong!  Your goals get closer and closer every day!"
+              }
+            }
+          ]
+        },
+        {
+          "amount": 1,
+          "creation_date_unix": 1736929405,
+          "last_modification_date_unix": 1736929405,
+          "details":
+          [
+            {
+              "name": "gems-1",
+              "data":
+              {
+                "visible": "TRUE"
+              }
+            },
+            {
+              "name": "gems-2",
+              "data":
+              {
+                "visible": "TRUE"
+              }
+            },
+            {
+              "name": "gems-3",
+              "data":
+              {
+                "visible": "TRUE"
+              }
+            },
+            {
+              "name": "title",
+              "data":
+              {
+                "value": "I played every day for a month so far"
+              }
+            },
+            {
+              "name": "description",
+              "data":
+              {
+                "value": "Holy moly, you're amazing"
               }
             }
           ]
